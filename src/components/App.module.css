@@ -1,0 +1,9 @@
+.container {
+  max-width: 400px;
+  padding: 12px;
+  margin: 0 auto;
+}
+
+.heading {
+  margin-bottom: 1rem;
+}
